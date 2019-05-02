@@ -8,7 +8,7 @@ Table of Contents
  5. [Adding Test Prep Books](#adding-test-prep-books)
  6. [Adding Test Prep Chapters](#adding-test-prep-chapters)
  7. [Adding Test Prep Exams](#adding-test-prep-exams)
- 8. [Adding Test Prep Questions](#adding-test-prep-questions)
+ 8. [Adding Test Prep Book Questions](#adding-test-prep-book-questions)
  
 ## Data Options
 ### Tests
@@ -173,7 +173,7 @@ The name field will be the name of the exam. (e.g. SAT Practice Test 1)
 The book field is optional. Examples 2 and 3 in the [test prep book](#test-prep-books) section go over the scenarios we would use this. 
 The test field will give you the option of choosing SAT, ACT, or AP. 
 
-## Adding test prep questions
+## Adding test prep book questions
 
 ![enter image description here](https://lh3.googleusercontent.com/ZnphIH-A8tSsDl9wfj4vmncZZcSTitDl_xI92s-kFqfNkAvi2YJpnjUcAN2wyTUELWJe1h8ag7U)
 
@@ -181,3 +181,19 @@ Start by clicking on the "Add Question" button. It will open the following page.
 
 ![enter image description here](https://lh3.googleusercontent.com/3usSpAh445HjcItpugmcOmM0heddEmWrQQKzff9OxSgy0I8vlNt3MfMWN2SFNw2afaN2SppEFfM)
 
+From the dropdown menu select which book you would like to add a question to. 
+
+![enter image description here](https://lh3.googleusercontent.com/sxaCheybHZlWVWN5Ijo9Lb0aQxmoGeuU4_TOosRnlHrSb8PXVFS0OPTX3TlOLKR-3GcDZBaCQPQ)
+
+From this point we have two options. 1) Select a chapter. 2) Select an exam that belongs to this book but not a chapter. 
+
+##### Option 1: Adding a question to a chapter.
+Once you have selected a chapter from the dropdown menu you will be presented with this page. 
+![enter image description here](https://lh3.googleusercontent.com/T24dgzRVOLREKW5bmgQbO--adnixTfrgxDj7ptoO3lOVyRraTFPoirv3EGvfnMzhWgIOgVedMtc)
+![enter image description here](https://lh3.googleusercontent.com/VFY8kyns6Zu9rQpWygU9BpJEvbaabo8lsj4IKflLC1Fnmd0xWGGhQDo_QzTZBx889GeRxBVXbEQ)
+
+Once again we have two different options on this page. First we can continue without adding in a scenario based question. Examples 1 and 3 in the [question structure overview](#question-structure-overview) are examples of questions that do not have a scenario and so we can click the "Skip Ahead" button. 
+
+If we do have a scenario based question - like example 2 in the [question structure overview](#question-structure-overview) - then we can either select an existing scenario using the "Use this scenario" link, or we can scroll to the bottom and create a new scenario. 
+
+No matter what option you choose (1. No scenario, 2. Use existing scenario, 3. Create a new scenario) the following screen will come up. 
